@@ -1,26 +1,13 @@
-vehicle_routing_solution
-========================
+# Vehicle Routing Solution
 
-O que é
--------
+A simple solution to the vehicle routing problem made with Java/JEE. It uses the Google Maps API (response directions and distance matrix) to calculate the distances between points. To find the best way it uses a simple permutation algorithm.
 
-Uma solução simples para o problema de roteamento de veículos (caixeiroviajante).
+## License
 
-Quando
-------
+[![CC0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Setembro~Outubro 2011.
+The MIT License.
 
-Como
-----
+-
 
-Feito com a linguagem de programação Java. Utiliza a API do Google Maps, directions response e distance matrix, para traçar as rotas e calcular as distancias entre os pontos. Para encontrar o melhor caminho, considerando apenas a distância, de um conjunto de pontos é utilizado um algoritmo simples de permutação.
-
-Autor
------
-
-Fernando Felix do Nascimento Junior.
-
-Referências
------------
-https://github.com/fernandojunior/simple_java_xml_reader
+Copyright (c) 2016 [Fernando Felix do Nascimento Junior](https://github.com/fernandojunior/).
